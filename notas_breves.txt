@@ -1,3 +1,6 @@
-Un repositorio suele incluir múltiples ficheros, cada fichero puede tener cambios.
+Un repositorio suele incluir mï¿½ltiples ficheros, cada fichero puede tener cambios.
 
-Un repositorio suele ser de un proyecto. Inicialmente eran proyectos informáticos, código de programas. Pero se puede usar para otro tipo de proyectos.
+Un repositorio suele ser de un proyecto. Inicialmente eran proyectos informï¿½ticos, cï¿½digo de programas. Pero se puede usar para otro tipo de proyectos.
+
+
+PAULO BERNARDEZ MIGUEL ( prueba )
